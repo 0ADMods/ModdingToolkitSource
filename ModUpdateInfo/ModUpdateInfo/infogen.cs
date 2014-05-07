@@ -280,34 +280,46 @@ namespace ModUpdateInfo
         }
         private void cols()
         {
+            Color u = this.menuStrip1.BackColor;
+            Color z = this.label2.ForeColor;
             foreach (Control x in this.Controls)
             {
-                x.BackColor = Color.Lime;
-                x.ForeColor = Color.Red;
+                x.BackColor = u;
+                x.ForeColor = z;
                 foreach (Control x2 in x.Controls)
                 {
-                    x2.BackColor = Color.Lime;
-                    x2.ForeColor = Color.Red;
+                    x2.BackColor = u;
+                    x2.ForeColor = z;
                     foreach (Control x3 in x2.Controls)
                     {
-                        x3.BackColor = Color.Lime;
-                        x3.ForeColor = Color.Red;
+                        x3.BackColor = u;
+                        x3.ForeColor = z;
                         foreach (Control x4 in x3.Controls)
                         {
-                            x4.BackColor = Color.Lime;
-                            x4.ForeColor = Color.Red;
+                            x4.BackColor = u;
+                            x4.ForeColor = z;
 
                         }
                     }
                 }
             }
-            foreach (ToolStripMenuItem x in this.saveToolStripMenuItem.DropDownItems)
+            foreach (ToolStripMenuItem x in this.menuStrip1.Items)
             {
-                x.BackColor = Color.Lime;
-                x.ForeColor = Color.Red;
+                x.BackColor = u;
+                x.ForeColor = z;
+                foreach (ToolStripMenuItem x2 in x.DropDownItems)
+                {
+                    x2.BackColor = u;
+                    x2.ForeColor = z;
+                    foreach (ToolStripMenuItem x3 in x2.DropDownItems)
+                    {
+                        x3.BackColor = u;
+                        x3.ForeColor = z;
+                    }
+                }
             }
-            this.BackColor = Color.Lime;
-            this.ForeColor = Color.Red;
+            this.BackColor = u;
+            this.ForeColor = z;
         }
 
         private void infogen_Load(object sender, EventArgs e)
