@@ -8,3 +8,5 @@ C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod
 C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\bin\Debug\ModToolsdll.pdb
 C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Debug\0AD Mod Toolkit.exe
 C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Debug\0AD Mod Toolkit.pdb
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\0Ad Mod Tools\0AD Mod Toolkit\obj\Debug\0AD Mod Toolkit.exe
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\0Ad Mod Tools\0AD Mod Toolkit\obj\Debug\0AD Mod Toolkit.pdb
