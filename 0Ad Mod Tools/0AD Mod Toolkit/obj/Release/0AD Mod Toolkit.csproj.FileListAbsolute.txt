@@ -1,0 +1,6 @@
+C:\Users\MutationInc\Desktop\mods\ROM\Realms-Of-Magic\trunk\Toolkit\0AD Mod Toolkit.exe
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Release\0AD Mod Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Release\ModTools.MDIParent1.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Release\ModTools.Properties.Resources.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Release\0AD Mod Toolkit.csproj.GenerateResource.Cache
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\0AD Mod Toolkit\obj\Release\0AD Mod Toolkit.exe

@@ -1,0 +1,12 @@
+Mod Update info
+Animal Training Updates
+	1.0.0.0
+	 Added Files
+- Added Trainable Animal Bear
+- Added Trainable Animal Lioness
+	 Modified Files
+- Modified Corral to allow training of combat animals
+	 Removed Files
+- none
+	 Balanced Files
+- None

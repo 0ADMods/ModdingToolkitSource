@@ -1,0 +1,17 @@
+Maru
+-------------------
+Directories Count:	4
+-------------------
+simulation
+templates
+structures
+units
+-------------------
+Files Count:	3
+-------------------
+-maur_civil_centre.xml
+-
+-maur_fortress.xml
+-
+-maur_champion_maiden_archer2.xml
+-

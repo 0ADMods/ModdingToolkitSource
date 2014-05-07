@@ -1,0 +1,12 @@
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\bin\Debug\ModToolsdll.dll
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\bin\Debug\ModToolsdll.pdb
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.csprojResolveAssemblyReference.cache
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.dll
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.pdb
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\bin\Debug\ModToolsdll.dll.config
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\Mod_File_List_Tool.Form1.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.csproj.GenerateResource.Cache
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\_0ad_Mod_ReadMe.Form2.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.Resource1.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.Editors.Abfo.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\0Ad Mod Tools\ModToolsdll\obj\Debug\ModToolsdll.Editors.Civ.CivEdi.resources

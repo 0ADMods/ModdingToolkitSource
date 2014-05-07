@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ModToolsdll</RootNamespace>
+    <AssemblyName>ModToolsdll</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <LangVersion>5</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Editors\Abfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editors\Abfo.Designer.cs">
+      <DependentUpon>Abfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Civ\CivEdi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editors\Civ\CivEdi.Designer.cs">
+      <DependentUpon>CivEdi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Fili\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editors\Fili\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\ReadMe\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editors\ReadMe\Form2.designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Json\Civjson\bas\civba.cs" />
+    <Compile Include="Json\Civjson\bons\civ\civbo.cs" />
+    <Compile Include="Json\Civjson\bons\team\civtebon.cs" />
+    <Compile Include="Json\Civjson\civs.cs" />
+    <Compile Include="Json\Civjson\forms\ciaina.cs" />
+    <Compile Include="Json\Civjson\forms\civbul.cs" />
+    <Compile Include="Json\Civjson\forms\civforma.cs" />
+    <Compile Include="Json\Civjson\hero\civher.cs" />
+    <Compile Include="Json\Civjson\music\mus.cs" />
+    <Compile Include="Json\Civjson\strc\ststrc.cs" />
+    <Compile Include="Json\Civjson\tech\techs.cs" />
+    <Compile Include="logi\fiPro.cs" />
+    <Compile Include="ModData\ModInfo.cs" />
+    <Compile Include="ModFiles\Base\Di_.cs" />
+    <Compile Include="ModFiles\Base\Files.cs" />
+    <Compile Include="ModFiles\Base\modbase.cs" />
+    <Compile Include="ModFiles\FilesInfo.cs" />
+    <Compile Include="mu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>mu.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="mu.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>mu.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Editors\Abfo.resx">
+      <DependentUpon>Abfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editors\Civ\CivEdi.resx">
+      <DependentUpon>CivEdi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editors\Fili\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editors\ReadMe\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ps.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ps2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\installer.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
