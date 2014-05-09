@@ -1,17 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// =====================================
+// |        0AD Modding Toolkit        |
+// =====================================
+// |           Version 0.0.0.1         |
+// =====================================
+using System;
 using System.Linq;
 using System.Windows.Forms;
-
 namespace Mod_Info_Tool
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        private static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
