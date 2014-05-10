@@ -1,0 +1,81 @@
+Mod Name: 
+Blood Reward
+===============================================================
+Mod Version: 
+1.0.0.0
+===============================================================
+0Ad Build Required:
+Alpha 15
+===============================================================
+Update Date: 
+5-2-2014
+===============================================================
+Mod Team Name: 
+Realms Of Magic/Com
+===============================================================
+Mod Leader: 
+Mute Lovestone
+===============================================================
+Status: 
+Active
+===============================================================
+Mod Infomation And Background: 
+Realms of Magic and Council of modders is proud to present,
+the Base mod Bloody Rewards
+
+This mod was made to make combat more enjoyable. as well as make combat more inportant in the game.
+
+so far this mod only makes it so blood is given for everything you kill.
+
+Realms of magic is working on making a mod that uses and rewords all the units to give more blood for bigger animals.
+as well as animals who have no other specialty.
+
+
+Sincerly,
+Mute Lovestone,
+Realms of Magic-Leader
+Council of Modders-Leader
+===============================================================
+Required Mods: 
+Only Alpha 15 of 0AD is needed
+===============================================================
+Messanger/Forum Contact Info: 
+mutation_industries@live.com/msn/skype(always when net up)
+===============================================================
+Email Contact Info: 
+
+===============================================================
+Change Log: 
+1.0.0.0
+=========================================
+Added blood rewards
+Added all blood related art
+===============================================================
+Mod Team Info: 
+
+===============================================================
+Mod Insperation: 
+
+===============================================================
+Side Notes And Recruitment: 
+Might not show in gui tiptool
+===============================================================
+Credits: 
+Mod Team Members: 
+
+===============================================================
+Individual Modders: 
+
+===============================================================
+Additional Info: 
+
+===============================================================
+Next Update will Feature: 
+Upgraded to use alpha 16
+===============================================================
+Install Instructions: 
+(Currently add -mod=bl_re to your 0ad shortcut) after unpacking to the 0ad mod directory
+===============================================================
+How to Uninstall: 
+delete files and remove shortcut
+===============================================================

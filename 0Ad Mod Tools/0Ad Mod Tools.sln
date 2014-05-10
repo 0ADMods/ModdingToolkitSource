@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModToolsdll", "ModToolsdll\ModToolsdll.csproj", "{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0AD Mod Toolkit", "0AD Mod Toolkit\0AD Mod Toolkit.csproj", "{F71E2857-E253-46C6-8C2E-114B21969E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod Info Tool", "Mod Info Tool\Mod Info Tool.csproj", "{F01F8F5A-1518-4ECC-B537-3129F594BF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D89436-BDDD-4806-ADC4-D83A9D3BF2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71E2857-E253-46C6-8C2E-114B21969E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71E2857-E253-46C6-8C2E-114B21969E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71E2857-E253-46C6-8C2E-114B21969E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71E2857-E253-46C6-8C2E-114B21969E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01F8F5A-1518-4ECC-B537-3129F594BF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01F8F5A-1518-4ECC-B537-3129F594BF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01F8F5A-1518-4ECC-B537-3129F594BF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01F8F5A-1518-4ECC-B537-3129F594BF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

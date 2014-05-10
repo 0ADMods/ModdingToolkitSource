@@ -1,0 +1,8 @@
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.csprojResolveAssemblyReference.cache
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.infogen.resources
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.Properties.Resources.resources
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.csproj.GenerateResource.Cache
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\bin\Debug\ModUpdateInfo.exe
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\bin\Debug\ModUpdateInfo.pdb
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.exe
+c:\users\mutationinc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Debug\ModUpdateInfo.pdb

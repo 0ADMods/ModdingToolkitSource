@@ -1,0 +1,11 @@
+C:\Users\MutationInc\Desktop\0adModsRepos\ModdingToolkit\trunk\0AD Mod Update Info Generator.exe
+C:\Users\MutationInc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.infogen.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.Properties.Resources.resources
+C:\Users\MutationInc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.csproj.GenerateResource.Cache
+C:\Users\MutationInc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Release\0AD Mod Update Info Generator.exe
+C:\Users\MutationInc\documents\visual studio 2012\Projects\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.csprojResolveAssemblyReference.cache
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.csprojResolveAssemblyReference.cache
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.infogen.resources
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.Properties.Resources.resources
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\ModUpdateInfo\ModUpdateInfo\obj\Release\ModUpdateInfo.csproj.GenerateResource.Cache
+C:\Users\MutationInc\Documents\GitHub\ToolkitSource\ModUpdateInfo\ModUpdateInfo\obj\Release\0AD Mod Update Info Generator.exe
